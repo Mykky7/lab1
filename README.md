@@ -1,5 +1,4 @@
-tetetete
-aaaaaaaaaaaa
-rrrrrrrr
-bbbbbbbb
-vvv
+- [Opis strony](#opisstrony)
+- [instalacja](#instalacja)
+- [uzycie](#uzycie)
+- [licencja](#licencja)
